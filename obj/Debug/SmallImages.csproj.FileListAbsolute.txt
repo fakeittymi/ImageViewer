@@ -1,0 +1,10 @@
+D:\3 курс\ОС\Ильминский\Лаба3\SmallImages\obj\Debug\SmallImages.csprojAssemblyReference.cache
+D:\3 курс\ОС\Ильминский\Лаба3\SmallImages\obj\Debug\SmallImages.Form1.resources
+D:\3 курс\ОС\Ильминский\Лаба3\SmallImages\obj\Debug\SmallImages.Properties.Resources.resources
+D:\3 курс\ОС\Ильминский\Лаба3\SmallImages\obj\Debug\SmallImages.csproj.GenerateResource.cache
+D:\3 курс\ОС\Ильминский\Лаба3\SmallImages\obj\Debug\SmallImages.csproj.CoreCompileInputs.cache
+D:\3 курс\ОС\Ильминский\Лаба3\SmallImages\bin\Debug\SmallImages.exe.config
+D:\3 курс\ОС\Ильминский\Лаба3\SmallImages\bin\Debug\SmallImages.exe
+D:\3 курс\ОС\Ильминский\Лаба3\SmallImages\bin\Debug\SmallImages.pdb
+D:\3 курс\ОС\Ильминский\Лаба3\SmallImages\obj\Debug\SmallImages.exe
+D:\3 курс\ОС\Ильминский\Лаба3\SmallImages\obj\Debug\SmallImages.pdb
